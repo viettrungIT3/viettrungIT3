@@ -4,14 +4,10 @@
 
 
 <div>
-  <a href="https://github.com/viettrungIT3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
 <!--     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&langs_count=8&theme=dark&show_icons=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117"> -->
+    <img align="center" width="45%" alt="Top languages stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viettrungIT3&langs_count=8&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
 
-  </a>
-  <a href="https://github.com/viettrungIT3">
-    <img align="center" alt="Top languages stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viettrungIT3&langs_count=8&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
-  </a>
 </div>
 
 
