@@ -6,11 +6,11 @@
 <div>
   <a href="https://github.com/viettrungIT3">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
-<!--     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&theme=dark&show_icons=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117"> -->
+<!--     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&langs_count=8&theme=dark&show_icons=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117"> -->
 
   </a>
   <a href="https://github.com/viettrungIT3">
-    <img align="center" alt="Top languages stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viettrungIT3&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
+    <img align="center" alt="Top languages stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viettrungIT3&langs_count=8&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
   </a>
 </div>
 
@@ -39,6 +39,32 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
+<img align="left" alt="azure" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+
+
+<!--
+**viettrungIT3/viettrungIT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<!-- [website]: https://nitinbisht.herokuapp.com/ -->
+[website]: https://www.facebook.com/trung.nguyenviet.1508
+[instagram]: https://www.instagram.com/viettrung.1508
+[linkedin]: https://www.linkedin.com
+[facebook]: https://www.facebook.com/trung.nguyenviet.1508
+
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 <img align="left" alt="azure" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
