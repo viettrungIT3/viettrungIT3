@@ -10,7 +10,7 @@
 
   </a>
   <a href="https://github.com/viettrungIT3">
-    <img align="center" alt="Top languages stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viettrungIT3&langs_count=10&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
+    <img align="center" alt="Top languages stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viettrungIT3&langs_count=8&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
   </a>
 </div>
 
