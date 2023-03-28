@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viettrungIT3&label=Views&color=blue&style=plastic" alt="viettrungIT3" /> </p>
 
 <div align="center">
-  <a href="https://github.com/lucinaldocosta">
+  <a href="https://github.com/viettrungIT3">
   <img width="59%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viettrungIT3&layout=compact&langs_count=10&theme=dracula"/>
 </div>
