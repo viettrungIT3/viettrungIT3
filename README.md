@@ -2,11 +2,15 @@
 <!-- *NOTE:  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viettrungIT3&label=Views&color=blue&style=plastic" alt="viettrungIT3" /> </p>
 
-<div align="center">
+<div>
   <a href="https://github.com/viettrungIT3">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viettrungIT3&layout=compact&langs_count=8&theme=dracula"/>
-</div>
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
+<!--     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&langs_count=8&theme=dark&show_icons=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117"> -->
+
+  </a>
+  <a href="https://github.com/viettrungIT3">
+    <img align="center" alt="Top languages stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viettrungIT3&langs_count=6&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
+  </a>
 
 
 ### Connect with me:
