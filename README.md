@@ -42,6 +42,7 @@
 ### Watch my contribution graph get eaten by the snake 🐍
 
   ![Snake animation      ](https://github.com/viettrungIT3/viettrungIT3/blob/output/github-contribution-grid-snake.svg)
+  ![gitartwork](https://github.com/viettrungIT3/viettrungIT3/blob/main/gitartwork.svg)
 
 <!--
 **viettrungIT3/viettrungIT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
