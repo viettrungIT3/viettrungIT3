@@ -1,48 +1,75 @@
-### Hello World, I'm [Nguyen Viet Trung](https://www.facebook.com/viettrungIT3) 👋
 <!-- *NOTE:  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viettrungIT3&label=Views&color=blue&style=plastic" alt="viettrungIT3" /> </p>
 
-<div>
+<h1 align="center">
+  <a href="https://www.facebook.com/viettrungIT3">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=10000&lines=👋+I'm+Nguyen+Viet+Trung+(Harry)!;" />
+  </a>
+</h1>
+
+<div align="center">
+
+  🌍 I'm based in Vietnamese
+
+  ⚡ I'm a Web Developer and App Developer
+
+  💻 I’m currently working on [**UNISOFT VIET NAM TECHNOLOGY JOINT STOCK COMPANY**](https://unisoftvietnam.com/)
+
+ </div>
+
+ <div align="center"> 
+  <a href="mailto:[viettrungcntt03@gmail.com]">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.facebook.com/viettrungIT3" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://viettrungIT3.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <h2>🔥 GitHub Stats 🔥</h2>
   <a href="https://github.com/viettrungIT3">
     <img align="center" width="48%" height=200 src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=0973DA&text_color=0973DA&bg_color=transparent" />
-<!--     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&langs_count=8&theme=dark&show_icons=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117"> -->
-
+    <!-- <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=viettrungIT3&langs_count=8&theme=dark&show_icons=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117"> -->
   </a>
   <a href="https://github.com/viettrungIT3">
     <img align="center" height=200 alt="Top languages stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viettrungIT3&langs_count=6&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=2d77dc&bg_color=transparent" />
   </a>
 </div>
 
-### Connect with me:
-
-[<img align="left" alt="https://nitinbisht.herokuapp.com/" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Nitin | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Nitin | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Nitin | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+<br />
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
-<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<div align="center">
+  <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+  Database: <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database Skills" height=50 /> :Database<br>
+  Mobile: <img src="https://skillicons.dev/icons?i=flutter,dart,apple,gcp,firebase" height=50 /> :Mobile<br>
+  Backend: <img src="https://skillicons.dev/icons?i=php,java,javascript,codeIgniter,laravel,spring,nodejs,mysql" height=50 /> :Backend<br>
+  Frontend: <img src="https://skillicons.dev/icons?i=php,js,html,css,sass,less,tailwind,bootstrap,jquery,nextjs,react,wordpress" height=50 /> :Frontend<br>
+  Tools & IDEs: <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,androidstudio,idea,eclipse,postman,docker,figma" height=50 /> :Tools & IDEs<br>
+  Other: <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/apple.svg" height=50 /><img src="https://skillicons.dev/icons?i=windows,linux,vim,bash,powershell,cloudflare" height=50 /> :Other<br>
+</div>
 
 <br />
+<br />
 
-### Watch my contribution graph get eaten by the snake 🐍
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
 
   ![Snake animation      ](https://github.com/viettrungIT3/viettrungIT3/blob/output/github-contribution-grid-snake.svg)
   ![gitartwork](https://github.com/viettrungIT3/viettrungIT3/blob/main/gitartwork.svg)
+
+</div>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
+</h3>
 
 <!--
 **viettrungIT3/viettrungIT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,7 +86,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [website]: https://nitinbisht.herokuapp.com/ -->
+[gmail]: viettrungcntt03@gmail.com
 [website]: https://www.facebook.com/viettrungIT3
 [instagram]: https://www.instagram.com/viettrung.1508
 [linkedin]: https://www.linkedin.com
