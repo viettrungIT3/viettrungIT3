@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://www.facebook.com/viettrungIT3">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=10000&lines=👋+I'm+Nguyen+Viet+Trung+(Harry)!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=10000&lines=👋+I'm+Nguyen+Viet+Trung+(Harry.T)!;" />
   </a>
 </h1>
 
@@ -63,7 +63,6 @@
   <h2>🐍 My Contributions 🐍</h2>
 
   ![Snake animation      ](https://github.com/viettrungIT3/viettrungIT3/blob/output/github-contribution-grid-snake.svg)
-  ![gitartwork](https://github.com/viettrungIT3/viettrungIT3/blob/main/gitartwork.svg)
 
 </div>
 
