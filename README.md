@@ -27,7 +27,7 @@
   <a href="https://viettrungIT3.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-   <a href="[https://viettrungIT3.github.io/](https://codeium.com/profile/viettrungit3)" target="_blank">
+   <a href="https://codeium.com/profile/viettrungit3" target="_blank">
      <img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
